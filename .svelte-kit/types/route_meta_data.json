@@ -1,0 +1,12 @@
+{
+	"/": [
+		"src/routes/+page.server.ts"
+	],
+	"/login": [
+		"src/routes/login/+page.server.ts"
+	],
+	"/signup": [
+		"src/routes/signup/+page.server.ts"
+	],
+	"/username-already-created": []
+}
